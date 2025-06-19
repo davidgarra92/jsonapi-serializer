@@ -1,0 +1,17 @@
+# Build output
+dist/
+
+# Dependencies
+node_modules/
+
+# Configuration files
+.eslintrc.js
+commitlint.config.js
+release.config.js
+
+# Documentation
+docs/
+
+# Other
+CHANGELOG.md
+*.log
